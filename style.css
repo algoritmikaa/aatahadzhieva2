@@ -1,0 +1,61 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+    background-color: rgb(255, 223, 228);
+}
+h1 {
+    color: plum;
+    text-align: center;
+    font-size: 80px;
+    text-shadow: 10px 10px 10px grey;
+}
+
+p {
+    text-align: end;
+    color: blueviolet;
+    font-size: 20px;
+}
+
+header a{
+    text-decoration: none;
+    background-color: cornflowerblue;
+    font-size: 30px;
+      border-radius: 5px;
+      padding: 5px;
+}
+
+
+header {
+    background-color: rgb(63, 61, 150);
+    padding: 30px;
+    margin-bottom: 10px;
+
+
+}
+
+.link-nav {
+    font-size: 25px;
+    margin-right: 40px;
+    background-color: rgb(221, 103, 182);
+    color: white;
+    text-decoration: none;
+    border-radius: 2px;
+    padding: 4px;
+    margin-left: 10px;
+}
+
+a:hover{
+    background-color:rgb(245, 44, 178);
+    transition: all 1s linear;
+    color: white;
+}
+footer {
+    background-color: rgb(196, 147, 241); 
+    padding: 3px;
+
+}
+
+footer a {
+    margin-left: 10px;
+}
+
